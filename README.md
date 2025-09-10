@@ -10,10 +10,7 @@ This repository provides scripts and pretrained models fo automatically segmenti
 📦 Download Pretrained Models & Resources
 
 Please download the complete folder from the following link:
-🔗 https://cloud.mrc-cbu.cam.ac.uk/index.php/s/w7fNcOpYXfSoqYF
-
-**Password**: ah
-
+🔗 [https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/ah2042_cam_ac_uk/Documents/AHalai/github/Lesion-Segmentation-nnUNet?csf=1&web=1&e=hbkt7B]
 
 The folder includes three subdirectories:
 
